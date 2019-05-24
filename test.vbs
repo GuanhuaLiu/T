@@ -1,4 +1,5 @@
 
+tag
 
 Class TestClass
   Private Sub Class_Initialize(x)  ' 设置 Initialize 事件，相当于构造函数
